@@ -1,0 +1,22 @@
+body{
+    background-color: #1c2b3a;
+}
+h1,h2,h3,h4,h5,h6{
+    color: #fff;
+}
+p,li,span,label,input,textarea,a,i{
+    color: #fff;
+}
+.top1 a{
+    color: black;
+}
+.prev, .next{
+    color: #fff;
+}
+#hover-shadow:hover,#submit-btn:hover,.right-column .social a i:hover,a:hover,.social a i:hover {
+    box-shadow: 0 8px 12px 0 rgba(212, 211, 211, 0.2), 0 12px 40px 0 rgba(255, 255, 255, 0.19);
+}
+#projectname{
+    text-decoration: underline white;
+    border-top: 4px solid white;
+}
